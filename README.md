@@ -16,6 +16,6 @@ This repository contains all my performance assessments for the **Western Govern
 
 🚀 Goals
 
-Demonstrate competency in key data analysis concepts.
-Develop reproducible, well-documented code.
-Improve analytical skills through real-world assessments.
+1. Demonstrate competency in key data analysis concepts.
+2. Develop reproducible, well-documented code.
+3. Improve analytical skills through real-world assessments.
