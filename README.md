@@ -15,6 +15,7 @@ This repository contains all my performance assessments for the **Western Govern
 - **D214** – Data Analytics Graduate Capstone
 
 🚀 Goals
+
 Demonstrate competency in key data analysis concepts.
 Develop reproducible, well-documented code.
 Improve analytical skills through real-world assessments.
